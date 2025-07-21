@@ -52,7 +52,8 @@ Built using tools like **Lovable**, **Replit**, and **Bolt**, the product delive
 
 ## 🛠️ Tech Stack
 
-- 💜 [Lovable](https://www.lovable.so) for UX prototyping  
+- 💜 [Lovable](https://www.lovable.so) for UX prototyping
+- https://preview--plum-glow-buddy-ai.lovable.app/ 
  
 
 ---
